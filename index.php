@@ -16,7 +16,7 @@
 <body>
     <header>
         <a href="index.php">
-            <img src="images/logo_white.png" alt="Logo" class="logo">
+            <img src="images/Doce Pedaço.png" alt="Logo" class="logo">
         </a>        
     </header>
     <nav>
