@@ -8,14 +8,14 @@ $produtos['Musi'] = array(
     <br/><br/>
     Pedido mínimo de 3 unidades.',
     'preco' => 12,00
-    'imagem' => 'musi.jpg'
+    'imagem' => 'musi.png'
 );
 
 $produtos['Cocada'] = array(
     'nome' => 'Cocada doce de coco',
     'descricao' => 'cocada ideial para todas as ocasiões',
     'preco' => 4.5,
-    'imagem' => 'cocada.jpg'
+    'imagem' => 'cocada.png'
 );
 
 $produtos['goiabada'] = array(
@@ -23,5 +23,5 @@ $produtos['goiabada'] = array(
     'descricao' => 'um doce como você nunca experimentou. Cuidadosamente preparada com goiabas selecionadas.
     <br/>Serve 6 pessoas.',
     'preco' => 6.7,
-    'imagem' => 'goiabada.jpg'
+    'imagem' => 'goiabada.png'
 );
