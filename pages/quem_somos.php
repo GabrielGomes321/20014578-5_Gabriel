@@ -5,7 +5,7 @@
 <div class="prod-cr">
     <h1>Quem somos</h1>
     <p>
-        Delícia em pedaços é o resultado de um sonho. Um dia, uma menina apaixonada por doces caseiros determinada a crescer.
+        Delícia no pote é o resultado de um sonho. Um dia, uma menina apaixonada por doces caseiros determinada a crescer.
     </p>
     <p>
        Essa garota criada em um sitio ficou famosa por seus deliciosos doces caseiros.
