@@ -7,12 +7,12 @@ $produtos['Cocada'] = array(
     <br/><br/>
     Pedido mínimo de 2 unidades.',
     'preco' => 6.7,
-    'imagem' => 'bombom.jpg'
+    'imagem' => 'cocadinha.jpg'
 );
 
 $produtos['Goiabada'] = array(
     'nome' => 'Goiabada',
     'descricao' => 'Mais um dos deliciosos doces caseiros ideal para receitas e cafés da tarde',
     'preco' => 4.5,
-    'imagem' => 'cupcake_2.jpg'
+    'imagem' => 'goiabinha.jpg'
 );
