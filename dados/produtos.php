@@ -1,27 +1,18 @@
 <?php
 
-$produtos['Musi'] = array(
-    'nome' => 'Musi de maracuja',
-    'descricao' => 'musi de maracuja uma delicia.
-    <br/><br/>
-    Ideal para ocasiões em que o requinte é fundamental.
-    <br/><br/>
-    Pedido mínimo de 3 unidades.',
-    'preco' => 12,00
-    'imagem' => 'musi.jpg'
-);
-
 $produtos['Cocada'] = array(
-    'nome' => 'Cocada doce de coco',
-    'descricao' => 'cocada ideial para todas as ocasiões',
-    'preco' => 4.5,
-    'imagem' => 'cocada.jpg'
+    'nome' => 'Cocada de pote',
+    'descricao' => '
+    Ideal para aquele café da manha em familia.
+    <br/><br/>
+    Pedido mínimo de 2 unidades.',
+    'preco' => 6.7,
+    'imagem' => 'bombom.jpg'
 );
 
-$produtos['goiabada'] = array(
-    'nome' => 'Goiabada doce delicioso de goiaba',
-    'descricao' => 'um doce como você nunca experimentou. Cuidadosamente preparada com goiabas selecionadas.
-    <br/>Serve 6 pessoas.',
-    'preco' => 6.7,
-    'imagem' => 'goiabada.jpg'
+$produtos['Goiabada'] = array(
+    'nome' => 'Goiabada',
+    'descricao' => 'Mais um dos deliciosos doces caseiros ideal para receitas e cafés da tarde',
+    'preco' => 4.5,
+    'imagem' => 'cupcake_2.jpg'
 );
